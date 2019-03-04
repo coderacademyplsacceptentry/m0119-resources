@@ -7,4 +7,4 @@ Jon's LMS
 [http://m0119.herokuapp.com/login](http://m0119.herokuapp.com/login)
 
 Canvas
-<!-- Need a link here -->
+[https://coderacademy.instructure.com](https://coderacademy.instructure.com)
