@@ -1,4 +1,3 @@
-
 # Coder Academy Resources
 
 Matt's Ruby Fundamentals  
@@ -9,5 +8,3 @@ Jon's LMS
 
 Canvas
 <!-- Need a link here -->
-
-
